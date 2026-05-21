@@ -1,4 +1,4 @@
-# 🦺 Controle de EPI / EPC / Ferramentas — Excel + VBA
+# 🦺 Controle de EPI / EPC / Ferramentas — Excel + VBA + Power Query & Linguagem M
 
 Sistema de controle de almoxarifado para **Equipamentos de Proteção Individual (EPI)**, **Equipamentos de Proteção Coletiva (EPC)** e **Ferramentas**, desenvolvido inteiramente em Excel com macros VBA.
 
