@@ -30,6 +30,12 @@ ehthumbs.db
 *.swo
 *~
 
+# === planilhas ===
+# [Pp]lanilha*.bas
+# [Pp]lanilha*.frm
+# [Ee]sta[Pp]asta*[Dd]e[Tt]rabalho*.bas
+# [Ee]sta[Pp]asta*[Dd]e[Tt]rabalho*.frm
+
 # === Mantenha apenas o código VBA extraído ===
 # !VBA_Export/*.bas
 # !VBA_Export/*.cls
