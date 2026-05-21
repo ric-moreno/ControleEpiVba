@@ -10,6 +10,25 @@ Centraliza o controle de movimentação de EPIs, EPCs e ferramentas, permitindo 
 
 ---
 
+## 🛠️ Stack Tecnológico e Inteligência de Dados
+
+O diferencial competitivo deste sistema é a sua arquitetura baseada no **Power BI Stack** dentro do Excel:
+
+### 🔹 Power Query & Linguagem M (O Motor de ETL)
+Responsável por toda a extração, transformação e carga de dados. A **Linguagem M** é utilizada para criar lógicas complexas que seriam inviáveis com fórmulas comuns:
+*   **Monitoramento de Vencimentos:** Algoritmo que cruza o Kit Padrão com entregas reais, identificando itens vencidos ou não entregues.
+*   **Análise de Consumo:** Normalização de dados de múltiplas fontes para cálculo de médias móveis.
+
+### 🔹 Power Pivot & DAX (Modelagem Analítica)
+Utiliza o motor *VertiPaq* para processar grandes volumes de dados e criar relações multidimensionais:
+*   **Medidas DAX:** KPIs dinâmicos como Giro de Estoque, Cobertura de Estoque e Valor de Inventário em Tempo Real.
+*   **Data Modeling:** Relacionamento entre tabelas de Funcionários, Produtos e Movimentações para análises granulares.
+
+### 🔹 VBA (Automação e UX)
+Focado na experiência do usuário e na integridade dos processos:
+*   **UserForms Avançados:** Interfaces intuitivas para lançamentos, evitando erros de digitação.
+*   **Geração de Documentos:** Automação completa para emissão de Cautelas, Vales e Requisições em PDF.
+
 ## ✨ Funcionalidades
 
 - **Dashboard gerencial** com indicadores visuais de:
