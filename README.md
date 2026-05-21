@@ -112,3 +112,4 @@ Centraliza o controle de movimentação de EPIs, EPCs e ferramentas, permitindo 
 ## 📄 Licença
 
 Desenvolvido por: Pedro Ricardo Moreno
+https://www.linkedin.com/in/pedroricardomoreno/
