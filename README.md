@@ -111,4 +111,4 @@ Centraliza o controle de movimentação de EPIs, EPCs e ferramentas, permitindo 
 
 ## 📄 Licença
 
-Desenvolvido por: Pedro Ricardo Moreno.
+Desenvolvido por: Pedro Ricardo Moreno
