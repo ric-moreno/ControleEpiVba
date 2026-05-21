@@ -1,0 +1,37 @@
+# === Arquivos binários do Office (NÃO versionar código aqui) ===
+*.xlsm
+*.xltm
+*.docm
+*.dotm
+*.accdb
+*.mdb
+*.xlsb
+
+# === Arquivos temporários e de backup do Office ===
+~$*
+*.tmp
+*.log
+*.xltx
+*.xlt
+
+# === Cache e sistema ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# === Pastas de exportação temporária (opcional) ===
+/output/
+/exports_temp/
+/backup/
+
+# === IDE e editores ===
+.vs/
+*.swp
+*.swo
+*~
+
+# === Mantenha apenas o código VBA extraído ===
+# !VBA_Export/*.bas
+# !VBA_Export/*.cls
+# !VBA_Export/*.frm
+# !VBA_Export/*.frx
